@@ -1,0 +1,21 @@
+Автор: 				Shipilov Anatoliy
+Название проекта:	Ninja logo animate
+URL:				https://www.youtube.com/@AnatoliyShipilov
+Страна:				Казахстан
+Дата начала: 		03 Марта 2023 04:23
+Дата окончания:		03 Марта 2023
+Описание: 
+Анимация логотипа ниндзи на оне солнца, в прыжке нинзя. и анимированый бамбук  
+ -----------------------------
+ Шрифты:
+ 
+ LOGO NAME 			- Seven Swordsmen BB - Regular
+ TAGLINE   TEXT 	- Corbel - Light
+ -----------------------------
+ Цвета:
+ 
+ Ниндзя 			- #1D1C34
+ Солнце				- #FF3133
+ LOGO NAME			- #FE7C0C
+ TAGLINE   TEXT		- #EDD1C5
+ Бамбук 			- #87BE46

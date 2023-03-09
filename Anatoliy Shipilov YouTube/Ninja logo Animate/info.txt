@@ -1,0 +1,20 @@
+ Autor: 		Shipilov Anatiliy
+ Project name:	Ninja logo animate
+ URL:			https://www.youtube.com/@AnatoliyShipilov
+ Country:		Kazakhstan
+ Start date: 	March 03 2023 04:23
+ End date:		March 03 2023
+ Description: 	Animation of the ninja logo on the sun ona, in a jumping ninja. and animated bamboo 
+ -----------------------------
+ Fonts:
+ 
+ LOGO NAME 			- Seven Swordsmen BB - Regular
+ TAGLINE   TEXT 	- Corbel - Light
+ -----------------------------
+ Colors:
+ 
+ Ninja 				- #1D1C34
+ SUN				- #FF3133
+ LOGO NAME			- #FE7C0C
+ TAGLINE   TEXT		- #EDD1C5
+ bambu 				- #87BE46
